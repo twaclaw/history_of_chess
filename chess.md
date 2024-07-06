@@ -49,7 +49,7 @@ El rey Iadava vivió muchos años, alimentándose de la felicidad y el bienestar
 
 $$s = 1 + 2 + 4 + \cdots + 2^{62} + 2^{63} = \sum_{k=0}^{63} 2^k$$
 
-si multiplicamos por $2$ en ambos lados
+si multiplicamos por $2$ en ambos lados, obtenemos:
 
 $$2s =  2 + 4 + 8 + \cdots + 2^{63} + 2^{64}$$
 
@@ -57,7 +57,7 @@ y si ahora restamos la serie original $s$ en ambos lados, obtenemos el número d
 
 $$s =  2^{64} - 1 = 18,446,744,073,709,551,615$$
 
-Esta cantidad es más del doble del número estimado de granos de arena en la tierra.
+Esta cantidad es más del doble del número estimado de granos de arena en la tierra 🤯
 </details>
 
 
