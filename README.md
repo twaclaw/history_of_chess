@@ -1,0 +1,1 @@
+A "history of chess" [short story](./chess.md) for small kids (in Spanish)
